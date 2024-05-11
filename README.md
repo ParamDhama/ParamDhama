@@ -13,9 +13,6 @@
 - 💬 Ask me about **react , express , database**
 
 - 📫 How to reach me **dhamaparam@gmail.com**
-
-- ⚡ Fun fact **I think i**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/dhama_param" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhama_param" height="30" width="40" /></a>
