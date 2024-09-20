@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [Param Dhama](https://paramdhama-portfolio.vercel.app/)
 
-- 💬 Ask me about **react , express , database**
+- 💬 Ask me about **react , nextjs , tailwindcss , expressjs , database**
 
 - 📫 How to reach me **dhamaparam@gmail.com**
 <h3 align="left">Connect with me:</h3>
