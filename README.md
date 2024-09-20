@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **NextJs**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/paramdhama/](https://www.linkedin.com/in/paramdhama/)
+- 👨‍💻 All of my projects are available at [Param Dhama](https://paramdhama-portfolio.vercel.app/)
 
 - 💬 Ask me about **react , express , database**
 
