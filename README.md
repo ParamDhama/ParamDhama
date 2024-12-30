@@ -16,9 +16,7 @@
 <p align="left">
 <a href="https://twitter.com/dhama_param" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhama_param" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/paramdhama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paramdhama" height="30" width="40" /></a>
-<a href="https://fb.com/param.dhama.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="param.dhama.7" height="30" width="40" /></a>
 <a href="https://instagram.com/param_dhama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="param_dhama" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@dhamaparam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@dhamaparam" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
