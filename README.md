@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Param Dhama</h1>
-<h3 align="center">A Passionate Full Stack Developer from India</h3>
+<h3 align="center">Senior Full Stack Developer from India</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=paramdhama&label=Profile%20views&color=0e75b6&style=flat" alt="paramdhama" />
