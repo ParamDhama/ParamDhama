@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-- 💼 Full Stack Developer with **3+ years** of professional experience building robust, scalable, and high-performing web apps.
+- 💼 Full Stack Developer with **2+ years** of professional experience building robust, scalable, and high-performing web apps.
 - 🔭 Currently building real-world SaaS platforms, RESTful APIs, and blazing-fast UI/UX with **React, Node.js, MongoDB, and Next.js**.
 - 🌱 Actively deep diving into **System Design**, **Microservices**, **Next.js 14 App Router**, **WebSocket Communication**, and **AWS Cloud**.
 - 💡 I believe in *writing clean, maintainable code*, designing scalable architecture, and following agile practices to deliver value fast.
