@@ -62,8 +62,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45" height="45"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/langchain.svg" width="45" height="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/OpenAI_Logo.svg" width="45" height="45"/>
 </p>
 
 ---
