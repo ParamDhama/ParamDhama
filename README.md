@@ -1,26 +1,28 @@
 <h1 align="center">Hey 👋, I'm Param Dhama</h1>
-<h3 align="center">SDE | Java Backend & GenAI Developer | Building Scalable Systems & Smart AI Apps</h3>
+<h3 align="center">SDE | Java Backend Engineer & GenAI Developer | Building Scalable Systems & Smart AI Apps</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=paramdhama&label=Profile%20views&color=8e44ad&style=flat" alt="paramdhama" />
 </p>
 
-<!-- <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" /> -->
-
 ---
 
 ### 🚀 About Me
 
-- 💼 Software Developer specialized in **Backend Engineering & Generative AI**  
-  (Java • Spring Boot • Python • LangChain • LLM APIs)
-- 🔭 Currently building **AI-powered products** — integrating LLMs, fine-tuning models, and designing intelligent APIs.
-- ⚙️ Backend work focuses on **Java Spring Boot**, **Microservices**, **Kafka**, and **PostgreSQL**.
-- 🌱 Exploring **AI Orchestration (LangChain)**, **RAG pipelines**, **FastAPI**, and **Cloud Deployments**.
-- 💡 I believe in *writing clean, maintainable, and scalable systems* with modern engineering principles.
-- 📂 Check out my full portfolio → [paramdhama.in](https://paramdhama.in)
-- 🎯 Long-term goal: Become a **Tech Lead / AI Architect** building intelligent distributed systems.
-- 👨‍💻 All my projects are here → [GitHub @paramdhama](https://github.com/paramdhama)
-- 📫 Reach me at **dhamaparam@gmail.com**
+I'm a **Software Developer** passionate about building **high-performance backend systems** and **intelligent AI-driven applications**.  
+My core work revolves around **Java Spring Boot**, **microservices architecture**, and integrating **Large Language Models (LLMs)** into real-world products.
+
+Currently, I'm focused on designing **AI-powered products** — combining software engineering discipline with the creative potential of **Generative AI**.
+
+- 💼 **Expertise:** Backend Engineering • Distributed Systems • Generative AI  
+- 🧠 **Tech Domains:** Java • Spring Boot • Python • LangChain • FastAPI • LLM APIs  
+- ⚙️ **Core Work:** Designing scalable APIs, integrating LLMs, and fine-tuning models for intelligent automation  
+- 🌱 **Currently Exploring:** AI Orchestration, RAG Pipelines, Multi-agent frameworks, and Cloud-native deployments  
+- 💡 I believe in writing **clean, maintainable, and production-grade code** that stands the test of scale.  
+- 🎯 **Long-Term Goal:** To become a **Tech Lead / AI Architect**, driving teams that build intelligent, distributed, and future-proof systems.  
+- 🌍 **Portfolio:** [paramdhama.in](https://paramdhama.in)  
+- 👨‍💻 **All Projects:** [GitHub @paramdhama](https://github.com/paramdhama)  
+- 📫 **Reach Me:** dhamaparam@gmail.com  
 
 ---
 
@@ -47,7 +49,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45"/>
 </p>
 
-#### 🧩 Backend & Database
+#### 🧩 Backend & Databases
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45"/>
@@ -88,7 +90,15 @@
 ---
 
 ### 💡 Current Focus
-🔹 Backend Scalability (Spring Boot Microservices)  
-🔹 AI Integration with LangChain & GPT APIs  
-🔹 Real-time Systems using Kafka & WebSockets  
-🔹 Clean Code, Testing, and System Design Patterns
+
+🔹 Scaling backend services using **Spring Boot Microservices**  
+🔹 Integrating **LLMs & LangChain** into production-ready APIs  
+🔹 Building **real-time systems** using **Kafka** & **WebSockets**  
+🔹 Practicing **clean architecture**, **automated testing**, and **robust system design**  
+🔹 Exploring the intersection of **AI + Software Engineering** — where intelligence meets infrastructure.
+
+---
+
+### 🧭 Philosophy
+> I don’t just write code — I build systems that learn, scale, and make an impact.  
+> My drive is simple: build tech that’s **useful**, **intelligent**, and **built to last**.
