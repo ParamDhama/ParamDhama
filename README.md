@@ -76,16 +76,9 @@ Alongside core web development, I actively explore **AI & Generative AI**, integ
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=paramdhama&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=paramdhama&theme=radical" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=paramdhama&layout=compact&theme=radical" />
-</p>
 
 ---
 
