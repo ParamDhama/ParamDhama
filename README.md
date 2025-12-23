@@ -1,5 +1,8 @@
 <h1 align="center">Hey 👋, I'm Param Dhama</h1>
-<h3 align="center">SDE | Java Backend Engineer & GenAI Developer | Building Scalable Systems & Smart AI Apps</h3>
+<h3 align="center">
+Software Engineer | MERN Stack Developer (MongoDB, Express, React, Node.js) <br/>
+Backend-Focused | AI & GenAI Enthusiast | Building Scalable Web Applications
+</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=paramdhama&label=Profile%20views&color=8e44ad&style=flat" alt="paramdhama" />
@@ -9,17 +12,17 @@
 
 ### 🚀 About Me
 
-I'm a **Software Developer** passionate about building **high-performance backend systems** and **intelligent AI-driven applications**.  
-My core work revolves around **Java Spring Boot**, **microservices architecture**, and integrating **Large Language Models (LLMs)** into real-world products.
+I'm a **Software Engineer** specializing in the **MERN stack**, with a strong **backend-first mindset**.  
+I focus on building **scalable, high-performance web applications** using **Node.js**, **Express**, and **MongoDB**, backed by clean APIs and efficient system design.
 
-Currently, I'm focused on designing **AI-powered products** — combining software engineering discipline with the creative potential of **Generative AI**.
+Alongside core web development, I actively explore **AI & Generative AI**, integrating intelligent features into modern web products to create smarter, more adaptive applications.
 
-- 💼 **Expertise:** Backend Engineering • Distributed Systems • Generative AI  
-- 🧠 **Tech Domains:** Java • Spring Boot • Python • LangChain • FastAPI • LLM APIs  
-- ⚙️ **Core Work:** Designing scalable APIs, integrating LLMs, and fine-tuning models for intelligent automation  
-- 🌱 **Currently Exploring:** AI Orchestration, RAG Pipelines, Multi-agent frameworks, and Cloud-native deployments  
-- 💡 I believe in writing **clean, maintainable, and production-grade code** that stands the test of scale.  
-- 🎯 **Long-Term Goal:** To become a **Tech Lead / AI Architect**, driving teams that build intelligent, distributed, and future-proof systems.  
+- 💼 **Expertise:** MERN Stack • Backend Engineering • REST APIs • System Design  
+- 🧠 **Tech Domains:** MongoDB • Express • React • Node.js • JavaScript • TypeScript  
+- ⚙️ **Core Work:** API development, database design, backend optimization, frontend integration  
+- 🌱 **Currently Exploring:** AI-powered features, LLM integrations, RAG pipelines, and backend scalability patterns  
+- 💡 I believe in writing **clean, maintainable, and production-ready code** that scales with users and traffic  
+- 🎯 **Long-Term Goal:** Grow into a **Senior Engineer / Tech Lead**, building robust systems and mentoring teams  
 - 🌍 **Portfolio:** [paramdhama.in](https://paramdhama.in)  
 - 👨‍💻 **All Projects:** [GitHub @paramdhama](https://github.com/paramdhama)  
 - 📫 **Reach Me:** dhamaparam@gmail.com  
@@ -29,40 +32,42 @@ Currently, I'm focused on designing **AI-powered products** — combining softwa
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/paramdhama" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40" /></a>
-  <a href="https://twitter.com/dhama_param" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="40" width="40" /></a>
-  <a href="https://instagram.com/param_dhama" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" width="40" /></a>
+  <a href="https://linkedin.com/in/paramdhama" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40" />
+  </a>
+  <a href="https://twitter.com/dhama_param" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="40" width="40" />
+  </a>
+  <a href="https://instagram.com/param_dhama" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" width="40" />
+  </a>
 </p>
 
 ---
 
 ### 🧠 Tech Stack
 
-#### 💻 Core Languages & Frameworks
+#### 💻 MERN Stack
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45"/>
   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45"/>
 </p>
 
-#### 🧩 Backend & Databases
+#### ⚙️ Backend, Databases & DevOps
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
 </p>
 
 #### 🧠 AI / GenAI & Tools
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45" height="45"/>
 </p>
 
@@ -71,34 +76,34 @@ Currently, I'm focused on designing **AI-powered products** — combining softwa
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=paramdhama&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=paramdhama&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=paramdhama&theme=radical&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=paramdhama&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=paramdhama&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=paramdhama&layout=compact&theme=radical" />
 </p>
 
 ---
 
 ### ⚡ Quote
-> “Code is like art — when crafted with intent, it doesn’t just work, it inspires.”
+> “Great web applications aren’t just built — they’re engineered for scale, performance, and clarity.”
 
 ---
 
 ### 💡 Current Focus
 
-🔹 Scaling backend services using **Spring Boot Microservices**  
-🔹 Integrating **LLMs & LangChain** into production-ready APIs  
-🔹 Building **real-time systems** using **Kafka** & **WebSockets**  
-🔹 Practicing **clean architecture**, **automated testing**, and **robust system design**  
-🔹 Exploring the intersection of **AI + Software Engineering** — where intelligence meets infrastructure.
+🔹 Building scalable MERN applications with **Node.js & Express**  
+🔹 Designing **clean REST APIs** and backend architectures  
+🔹 Improving frontend performance using **React & Next.js**  
+🔹 Integrating **AI & LLM-powered features** into web apps  
+🔹 Practicing **clean code**, **system design**, and **real-world scalability**
 
 ---
 
 ### 🧭 Philosophy
-> I don’t just write code — I build systems that learn, scale, and make an impact.  
-> My drive is simple: build tech that’s **useful**, **intelligent**, and **built to last**.
+> I don’t chase trends — I master fundamentals.  
+> My goal is to build web systems that are **fast**, **scalable**, and **ready for the future**.
