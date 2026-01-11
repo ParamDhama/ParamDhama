@@ -71,13 +71,6 @@ Alongside core web development, I actively explore **AI & Generative AI**, integ
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45" height="45"/>
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=paramdhama&theme=radical" />
-</p>
 
 
 ---
