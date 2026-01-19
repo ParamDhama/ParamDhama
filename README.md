@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Param Dhama</h1>
 <h3 align="center">
-Software Engineer | MERN Stack Developer (MongoDB, Express, React, Node.js) <br/>
-Backend-Focused | AI & GenAI Enthusiast | Building Scalable Web Applications
+Full Stack Developer | Backend Engineer (Node.js, Spring Boot) <br/>
+API-Driven Systems • Cloud Basics • Scalable Web Applications
 </h3>
 
 <p align="center">
@@ -12,19 +12,20 @@ Backend-Focused | AI & GenAI Enthusiast | Building Scalable Web Applications
 
 ### 🚀 About Me
 
-I'm a **Software Engineer** specializing in the **MERN stack**, with a strong **backend-first mindset**.  
-I focus on building **scalable, high-performance web applications** using **Node.js**, **Express**, and **MongoDB**, backed by clean APIs and efficient system design.
+I'm a **Full Stack Developer** with a strong **backend-first mindset**, experienced in building **scalable, production-ready web applications**.
 
-Alongside core web development, I actively explore **AI & Generative AI**, integrating intelligent features into modern web products to create smarter, more adaptive applications.
+I primarily work with **Node.js and RESTful APIs**, and I also build backend services using **Java Spring Boot**. On the frontend, I develop clean and responsive UIs using **React and Vue.js**, focusing on seamless integration with backend systems.
 
-- 💼 **Expertise:** MERN Stack • Backend Engineering • REST APIs • System Design  
-- 🧠 **Tech Domains:** MongoDB • Express • React • Node.js • JavaScript • TypeScript  
-- ⚙️ **Core Work:** API development, database design, backend optimization, frontend integration  
-- 🌱 **Currently Exploring:** AI-powered features, LLM integrations, RAG pipelines, and backend scalability patterns  
-- 💡 I believe in writing **clean, maintainable, and production-ready code** that scales with users and traffic  
-- 🎯 **Long-Term Goal:** Grow into a **Senior Engineer / Tech Lead**, building robust systems and mentoring teams  
+I enjoy working close to the **core of applications** — APIs, authentication, databases, and performance — and I continuously improve my understanding of **system design and cloud-native development**.
+
+- 💼 **Core Expertise:** Backend Development • REST APIs • Full Stack Engineering  
+- 🧠 **Tech Stack:** Node.js • Express • Java Spring Boot • React • Vue.js  
+- 🗄️ **Databases:** MySQL • MongoDB • PostgreSQL  
+- ⚙️ **Cloud & DevOps:** AWS (EC2, S3 – Basics) • Docker • Linux  
+- 🔐 **Security:** JWT Authentication • Role-Based Access Control  
+- 🎯 **Career Goal:** Grow as a **Backend / Full Stack Engineer**, contributing to scalable enterprise systems  
 - 🌍 **Portfolio:** [paramdhama.in](https://paramdhama.in)  
-- 👨‍💻 **All Projects:** [GitHub @paramdhama](https://github.com/paramdhama)  
+- 👨‍💻 **Projects:** [GitHub @paramdhama](https://github.com/paramdhama)  
 - 📫 **Reach Me:** dhamaparam@gmail.com  
 
 ---
@@ -47,49 +48,43 @@ Alongside core web development, I actively explore **AI & Generative AI**, integ
 
 ### 🧠 Tech Stack
 
-#### 💻 MERN Stack
+#### 💻 Backend & APIs
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="45" height="45"/>
 </p>
 
-#### ⚙️ Backend, Databases & DevOps
+#### 🎨 Frontend
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" width="45" height="45"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="45" height="45"/>
+</p>
+
+#### 🗄️ Databases & DevOps
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
 </p>
 
-#### 🧠 AI / GenAI & Tools
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45" height="45"/>
-</p>
-
-
-
 ---
 
-### ⚡ Quote
-> “Great web applications aren’t just built — they’re engineered for scale, performance, and clarity.”
+### ⚡ What I Focus On
 
----
-
-### 💡 Current Focus
-
-🔹 Building scalable MERN applications with **Node.js & Express**  
-🔹 Designing **clean REST APIs** and backend architectures  
-🔹 Improving frontend performance using **React & Next.js**  
-🔹 Integrating **AI & LLM-powered features** into web apps  
-🔹 Practicing **clean code**, **system design**, and **real-world scalability**
+🔹 Designing **RESTful APIs** with clean architecture  
+🔹 Building backend services using **Node.js & Spring Boot**  
+🔹 Implementing **JWT authentication & RBAC**  
+🔹 Working with **SQL & NoSQL databases**  
+🔹 Deploying applications using **AWS & Docker (basics)**  
+🔹 Writing **clean, maintainable, production-ready code**
 
 ---
 
 ### 🧭 Philosophy
-> I don’t chase trends — I master fundamentals.  
-> My goal is to build web systems that are **fast**, **scalable**, and **ready for the future**.
+> I focus on strong fundamentals and real-world engineering.  
+> My goal is to build systems that are **reliable**, **scalable**, and **easy to maintain**.
